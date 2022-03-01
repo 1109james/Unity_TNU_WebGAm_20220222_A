@@ -1,0 +1,438 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'zh' Physical Memory: 16217 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Documents/GitHub/Unity_TNU_WebGAm_20220222_A/WebGAm_20220222_A
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+14982
+Successfully changed project path to: C:/Users/user/Documents/GitHub/Unity_TNU_WebGAm_20220222_A/WebGAm_20220222_A
+C:/Users/user/Documents/GitHub/Unity_TNU_WebGAm_20220222_A/WebGAm_20220222_A
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/GitHub/Unity_TNU_WebGAm_20220222_A/WebGAm_20220222_A/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003993 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.545 seconds
+Domain Reload Profiling:
+	ReloadAssembly (546ms)
+		BeginReloadAssembly (63ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (408ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (129ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (156ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (75ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1022ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (816ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (318ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (164ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2194 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.6 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.489500 ms (FindLiveObjects: 0.144500 ms CreateObjectMapping: 0.071200 ms MarkObjects: 2.229600 ms  DeleteObjects: 0.043500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/NinjaAdventure/Example 3.gif
+  artifactKey: Guid(e69b86454ea76f54da7a8606e7d9e944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Example 3.gif using Guid(e69b86454ea76f54da7a8606e7d9e944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb798744c76c91e851e3dc31e1ac50a') in 0.146764 seconds 
+  Import took 0.149697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/NinjaAdventure/Example 1.gif
+  artifactKey: Guid(2a029d06e051307479817db47911bedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Example 1.gif using Guid(2a029d06e051307479817db47911bedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899da5507ad791f566d6592a117957df') in 0.014243 seconds 
+  Import took 0.016785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.070338 seconds.
+  path: Assets/NinjaAdventure/Example 5 ( Old Version).png
+  artifactKey: Guid(b0f0c4aab43573f4c949dd17ce09770a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Example 5 ( Old Version).png using Guid(b0f0c4aab43573f4c949dd17ce09770a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d76bfc6b53ed0d4124579a92ab37ada') in 0.013168 seconds 
+  Import took 0.016324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.773755 seconds.
+  path: Assets/NinjaAdventure/FX
+  artifactKey: Guid(658448e01733beb49951a068a55c9fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/FX using Guid(658448e01733beb49951a068a55c9fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c811c1b832c27f151134d6426d47838d') in 0.001856 seconds 
+  Import took 0.004659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.102871 seconds.
+  path: Assets/NinjaAdventure/FX/Elemental
+  artifactKey: Guid(8443a80f711cadd48bc0d4eb80b36854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/FX/Elemental using Guid(8443a80f711cadd48bc0d4eb80b36854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec01269deaf973febc2b3e76e11121f') in 0.002917 seconds 
+  Import took 0.007267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.424295 seconds.
+  path: Assets/NinjaAdventure/Example 2.gif
+  artifactKey: Guid(9890e568ff906ba4e8ccd95e50fe33a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Example 2.gif using Guid(9890e568ff906ba4e8ccd95e50fe33a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959a13fffd52263a6f6c4a6c76b49688') in 0.018236 seconds 
+  Import took 0.021530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.746833 seconds.
+  path: Assets/NinjaAdventure/Musics
+  artifactKey: Guid(4db155fed01e5c54e85bea5c201ba480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Musics using Guid(4db155fed01e5c54e85bea5c201ba480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9679f8e3e4dfd4e3ed7e4f500934b939') in 0.002281 seconds 
+  Import took 0.005811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.218259 seconds.
+  path: Assets/NinjaAdventure/Items
+  artifactKey: Guid(f07ffb7656356684093f3057b3435e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Items using Guid(f07ffb7656356684093f3057b3435e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e092897693bd88140380ab4188559f3') in 0.001862 seconds 
+  Import took 0.004519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.459759 seconds.
+  path: Assets/NinjaAdventure/FX/Elemental/Flam
+  artifactKey: Guid(0d54f951894a18f4ab99a42d160196da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/FX/Elemental/Flam using Guid(0d54f951894a18f4ab99a42d160196da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310a7f3b01cdd601a7bd4340760e8c37') in 0.001609 seconds 
+  Import took 0.004309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.746932 seconds.
+  path: Assets/NinjaAdventure/HUD
+  artifactKey: Guid(c0e666bb2bb83404992fa5515c3b20ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/HUD using Guid(c0e666bb2bb83404992fa5515c3b20ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9fa840c9fdd3b1226dcaa04a198d44') in 0.001654 seconds 
+  Import took 0.004442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.067326 seconds.
+  path: Assets/NinjaAdventure/Sounds
+  artifactKey: Guid(a2397fb327588114aab19c9b55adf6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Sounds using Guid(a2397fb327588114aab19c9b55adf6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e5a06b4b4ca07ff5d85999467860e5') in 0.001708 seconds 
+  Import took 0.004311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.301988 seconds.
+  path: Assets/NinjaAdventure/HUD/Font
+  artifactKey: Guid(92fa383e89a8ab3478a492a699cd0071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/HUD/Font using Guid(92fa383e89a8ab3478a492a699cd0071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6c64e4fa32849a522fe16df6b8aa73') in 0.001713 seconds 
+  Import took 0.004791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.033653 seconds.
+  path: Assets/NinjaAdventure/Actor
+  artifactKey: Guid(6a8b23f11c9e3d042bce829d4c4bea36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Actor using Guid(6a8b23f11c9e3d042bce829d4c4bea36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ecaf0d17a8d1ced9e9955c7c43a85e') in 0.001585 seconds 
+  Import took 0.004262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.914383 seconds.
+  path: Assets/NinjaAdventure/Actor/Monsters
+  artifactKey: Guid(533949fba4c00104fb520f075c2d4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Actor/Monsters using Guid(533949fba4c00104fb520f075c2d4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128350cb36e6ec60e6012835a311c8f5') in 0.001701 seconds 
+  Import took 0.004432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.679434 seconds.
+  path: Assets/NinjaAdventure/Actor/Monsters/Bamboo.png
+  artifactKey: Guid(c5f930067644d81429c3f768b0d07e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Actor/Monsters/Bamboo.png using Guid(c5f930067644d81429c3f768b0d07e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4846d4223ae7ae3205463c1d53975b9a') in 0.009392 seconds 
+  Import took 0.012437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.571769 seconds.
+  path: Assets/NinjaAdventure/Actor/Monsters/butterfly.png
+  artifactKey: Guid(fff9daec7b960fc4aa26ac9ce3d83197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Actor/Monsters/butterfly.png using Guid(fff9daec7b960fc4aa26ac9ce3d83197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36a433201237dd848a7f0b0cbcee14e') in 0.007317 seconds 
+  Import took 0.010292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.497643 seconds.
+  path: Assets/NinjaAdventure/Backgrounds
+  artifactKey: Guid(87636f07143c27149955ce85757e8213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds using Guid(87636f07143c27149955ce85757e8213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd33ad3e61fc82918b20c9147bb563d') in 0.002322 seconds 
+  Import took 0.005977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.730672 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets
+  artifactKey: Guid(3f0515e9b452b174f91ead599dd5ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets using Guid(3f0515e9b452b174f91ead599dd5ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579f186bbedab439e11ec75394a06354') in 0.001627 seconds 
+  Import took 0.004380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.446625 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetDungeon.png
+  artifactKey: Guid(5899acd337ca155428f2d3246e9bec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetDungeon.png using Guid(5899acd337ca155428f2d3246e9bec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd797c2dc9a5a6370b676d11182b1d0b1') in 0.008522 seconds 
+  Import took 0.011220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.605598 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png
+  artifactKey: Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png using Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb933e2567e04fef51dd6e72bad4c5d2') in 0.013719 seconds 
+  Import took 0.016591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.347972 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloorDetail.png
+  artifactKey: Guid(433aabf0b6686ba44b7e63966bd5abbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloorDetail.png using Guid(433aabf0b6686ba44b7e63966bd5abbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a350c3ff1984075f8e3dcfd37726f66') in 0.009291 seconds 
+  Import took 0.012017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738313 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloorB.png
+  artifactKey: Guid(b557bd20ca97df8459607ec689cf2b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloorB.png using Guid(b557bd20ca97df8459607ec689cf2b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8d4c376a4946549dee61592dab66bf') in 0.010083 seconds 
+  Import took 0.012826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.654819 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetHole.png
+  artifactKey: Guid(d0e212a5d4ab16c43a595feaba87e7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetHole.png using Guid(d0e212a5d4ab16c43a595feaba87e7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419c82829225618e582213cceafe61ea') in 0.008956 seconds 
+  Import took 0.011808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147658 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetHouse.png
+  artifactKey: Guid(9c330ec3315f2584caea0a38e0c477be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetHouse.png using Guid(9c330ec3315f2584caea0a38e0c477be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24a334d5e9b4d58fd14588e443c532c1') in 0.017070 seconds 
+  Import took 0.020056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188673 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetLogic.png
+  artifactKey: Guid(b41fe7b6d07798d4d988f50abea11ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetLogic.png using Guid(b41fe7b6d07798d4d988f50abea11ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9304bbd7ff63c1294672379b79c2fa') in 0.008964 seconds 
+  Import took 0.012692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.642225 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetNature.png
+  artifactKey: Guid(cd46d9c50a0cb824ca396104576b91bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetNature.png using Guid(cd46d9c50a0cb824ca396104576b91bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4bad2a2fec406083f5cbd0b1f9f83d1') in 0.011378 seconds 
+  Import took 0.014138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117329 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetRelief.png
+  artifactKey: Guid(d45843acda183fd48b3461a1d9781543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetRelief.png using Guid(d45843acda183fd48b3461a1d9781543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2ec9fd16bcfeff78a8f7f08885d368') in 0.009969 seconds 
+  Import took 0.012769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321269 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetReliefDetail.png
+  artifactKey: Guid(9d6e55746d3a84b45bd60d5579900c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetReliefDetail.png using Guid(9d6e55746d3a84b45bd60d5579900c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ace5d53299f987a18d5a73886f69226') in 0.008894 seconds 
+  Import took 0.011667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.794366 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetElement.png
+  artifactKey: Guid(76ff8a2fae452144788036ea7517f287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetElement.png using Guid(76ff8a2fae452144788036ea7517f287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4709f83d005d7b647966040d11a0a200') in 0.013459 seconds 
+  Import took 0.016577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.023205 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png
+  artifactKey: Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png using Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8edd3acea28770f2d45fd316c66f9d31') in 0.006044 seconds 
+  Import took 0.008723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.752213 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png
+  artifactKey: Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png using Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0cf0a53456fd5ca2fb72d0f85f420b8') in 0.951383 seconds 
+  Import took 0.955380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.452453 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetWater.png
+  artifactKey: Guid(a894dcdf9fe2f5b44a87a26366ce1633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetWater.png using Guid(a894dcdf9fe2f5b44a87a26366ce1633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7dd011b29feb9b5f764e7adb0a59350') in 0.014127 seconds 
+  Import took 0.020151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.065039 seconds.
+  path: Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png
+  artifactKey: Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/Backgrounds/Tilesets/TilesetFloor.png using Guid(48fd6b9c522deef4593fdcebe7bd7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531fb44ed189fc7be06573f025aed2b8') in 0.920828 seconds 
+  Import took 0.924863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3764.875559 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002466 seconds 
+  Import took 0.006609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.565015 seconds.
+  path: Assets/Square.png
+  artifactKey: Guid(d43fe0609ab9777458b712455e084724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square.png using Guid(d43fe0609ab9777458b712455e084724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf60a517fee80192027265efb208546') in 0.015020 seconds 
+  Import took 0.018894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.127348 seconds.
+  path: Assets/NinjaAdventure/HUD/Font/NormalFont.ttf
+  artifactKey: Guid(c82c8dc62b181c048b9833db1ec1d3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaAdventure/HUD/Font/NormalFont.ttf using Guid(c82c8dc62b181c048b9833db1ec1d3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7f0b02e3abdb7383fad378cb5d28a1') in 0.042935 seconds 
+  Import took 0.046021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/setofont/setofont.ttf
+  artifactKey: Guid(ede57c1a29b5f2e4da3a708c95d8fc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/setofont/setofont.ttf using Guid(ede57c1a29b5f2e4da3a708c95d8fc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f729b1e3b6a1912fc049d1b9ed8e1c58') in 0.023721 seconds 
+  Import took 0.028876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/setofont/setofont-ex.ttf
+  artifactKey: Guid(237ebbad87482684c99dfa80d60b0e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/setofont/setofont-ex.ttf using Guid(237ebbad87482684c99dfa80d60b0e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d99e6ee707d832c377d8dc5b45f365') in 0.011819 seconds 
+  Import took 0.015711 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
